@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject2"
+	},
+	{
+		"ParameterKey": "AmiTemplate",
+		"ParameterValue": "ami-00ddb0e5626798373"
+	},
+	{
+		"ParameterKey": "AutoScalingInstanceType",
+		"ParameterValue": "t3.small"
+	}
+]
