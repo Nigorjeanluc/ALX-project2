@@ -13,7 +13,7 @@ Parameters:
     AutoScalingInstanceType:
         Description: An instance type for the AutoScalingGroup
         Type: String
-        Default: "t2.small"
+        Default: "t3.medium"
 
     AutoScalingMinSize:
         Description: An minimum size of instances for the AutoScalingGroup

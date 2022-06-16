@@ -9,6 +9,6 @@
 	},
 	{
 		"ParameterKey": "AutoScalingInstanceType",
-		"ParameterValue": "t3.small"
+		"ParameterValue": "t3.medium"
 	}
 ]
